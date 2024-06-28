@@ -1,4 +1,5 @@
-oddfar/campus-imaotai
+dannicool/docker-wechatbot-webhook
+#oddfar/campus-imaotai
 #nginx
 #python
 #支持私库
